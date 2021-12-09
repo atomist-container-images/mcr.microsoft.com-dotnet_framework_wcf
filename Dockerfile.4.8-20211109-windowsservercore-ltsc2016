@@ -1,0 +1,3 @@
+# Tags: 4.8-20211109-windowsservercore-ltsc2016
+FROM dotnet/framework/wcf:4.8-20211109-windowsservercore-ltsc2016
+FROM dotnet/framework/wcf:4.8-windowsservercore-ltsc2016
