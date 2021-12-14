@@ -1,4 +1,0 @@
-# Tags: 4.8-20211109-windowsservercore-20H2, 4.8-windowsservercore-20H2, 4.8-windowsservercore-2009
-FROM mcr.microsoft.com/dotnet/framework/wcf:4.8-20211109-windowsservercore-20H2
-FROM mcr.microsoft.com/dotnet/framework/wcf:4.8-windowsservercore-20H2
-FROM mcr.microsoft.com/dotnet/framework/wcf:4.8-windowsservercore-2009
